@@ -2,7 +2,7 @@
 from sys import stdin
 
 def read_str():
-    """read strig"""
+    """read string"""
     main_str = []
     while True:
         try:
